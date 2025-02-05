@@ -16,7 +16,7 @@
 
 ## 🚀 Live Website  
 Tunify LPM Club is hosted on GitHub Pages. You can access it here:  
-[🔗 Live Website](https://tunify-club.github.io/Tunify.lpm.Club/)  
+[🔗 Live Website](https://tunify-club.github.io/Tu/)  
 
 ## 📌 How to Use  
 1. Explore featured artists and music.  
